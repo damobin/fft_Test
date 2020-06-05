@@ -1,0 +1,15 @@
+OUT
+build
+History
+Project Outputs for *
+Project Logs for *
+.vscode
+*.SchDocPreview
+*.PcbDocPreview
+*.Annotation
+*.AnnotationPreview
+*.mobin
+json_rpc/gen
+build.sh
+clean.sh
+sftp.sh
